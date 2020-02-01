@@ -1,0 +1,11 @@
+this is automated task for below Testcases
+	-Login 
+	-Add new user
+	-Search for a user	
+	-Delete user
+-there are 2 classes :
+	one contain  of methods called"main class"
+	the other one called "orangeTask" calls methods from "main class"
+
+-Framework used TestNG 
+-used Maven plugin :dependences decleared in pom.xml file
